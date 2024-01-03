@@ -8,3 +8,5 @@ Do not run the **main.py** file as it most likely will not work due to the calls
 
 📓 main.py will also not work on a server enviroment.
 
+# Video:
+[![Demo](https://img.youtube.com/vi/3Baql7AifwA/0.jpg)](https://www.youtube.com/watch?v=3Baql7AifwA&ab_channel=Layered)
